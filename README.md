@@ -2,16 +2,24 @@
 The project is about a small idea that allows users to get notified through E-mail when their favorite domains are being expired. A reminder mail will be sent before the domain expires. The website is created in **Flask** and **SQLite**. You can host it very easily. You can also modify it easily to add more features. The domain information is taken from **whois**. 
 
 # Host on localhost
-Install Flask: `pip install flask`   
-Install whois: `pip install python-whois`   
-Run the app: `python app.py`   
-Open index.html on localhost with URL: `127.0.0.1:5000`   
+Install Flask:    
+`pip install flask`   
+Install whois:   
+`pip install python-whois`   
+Run the app:    
+`python app.py`   
+Open index.html on localhost with URL:    
+`127.0.0.1:5000`   
 
 # Host on Remote server
-Install Flask: `pip install flask`   
-Install whois: `pip install python-whois`   
-Run the app: `python app.py`   
-Open index.html on remote server with URL: `IP-ADDRESS-OF-SERVER:5000`   
+Install Flask:   
+`pip install flask`   
+Install whois:   
+`pip install python-whois`   
+Run the app:   
+`python app.py`   
+Open index.html on remote server with URL:    
+`IP-ADDRESS-OF-SERVER:5000`   
 
 # Front-End design
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/88789894/192629437-29fe84b9-79db-490e-9ffd-f92624083074.png">

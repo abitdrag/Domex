@@ -1,5 +1,5 @@
 # Domex
-The project is about a small idea that allows users to get notified through E-mail when their favorite domains are being expired. A reminder mail will be sent before the domain expires. The website is created in **Flask** and **SQLite**. You can host it very easily. You can also modify it easily to add more features. The domain information is taken from **whois**. Uses flask for backend.
+The project is about a small idea that allows users to get notified through E-mail when their favorite domains are being expired. A reminder mail will be sent before the domain expires. The website is created using **Flask** and **SQLite**. You can host it very easily. You can also modify it easily to add more features. The domain information is taken from **whois**. 
 
 # Host on localhost
 Install Flask:    
